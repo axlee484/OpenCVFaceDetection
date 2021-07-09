@@ -1,6 +1,6 @@
 # OpenCVFaceDetection
 A basic C++ project using OpenCV to detect faces in an image.
-This is a basic code used to detect faces in an image using OpenCV library and Haar Cascades' XML.
+This is a basic code used to detect faces in an image using OpenCV library and HaarCascades' XML.
 This is a Windows console version of the application.
 However the C++ source code is generic.
 You may need to install other external dependencies if using on Mac or Linux-based OS.
